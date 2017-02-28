@@ -1,4 +1,7 @@
+# -*- coding: utf-8 -*-
+#
 # Copyright (c) 2015–2016 Molly White
+# Modified Code copyright (c) 2017 Tim Tufts
 #
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
@@ -25,7 +28,7 @@ from time import gmtime, strftime
 
 
 # ====== Individual bot configuration ==========================
-bot_username = ''
+bot_username = 'TimBot2021'
 logfile_name = bot_username + ".log"
 
 # ==============================================================
